@@ -132,7 +132,7 @@
                         </th>
                         <th>Name</th>
                         <th>#</th>
-                        <th>Max HP/Max STR</th>
+                        <!-- <th>Max HP/Max STR</th> -->
                         <th>Skill (Hover to see description)</th>
                         <th>
                             <button class="ui button" v-on:click="toggleQuantityModifier()">Modify Quantity</button>
@@ -146,10 +146,12 @@
                         </td>
                         <td>{{weapon.WeaponName}}</td>
                         <td>{{weapon.quantity}}</td>
+                        <!--
                         <td>
                             <span style="color: blue">{{weapon.MaxHp}}</span> /
                             <span style="color: red">{{weapon.MaxAtk}}</span>
                         </td>
+                        -->
                         <td>
                             <div v-if="weapon.SkillDesc" class="ui icon button" :data-tooltip="weapon.SkillDesc">
                                 {{weapon.SkillName}}

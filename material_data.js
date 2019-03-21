@@ -468,82 +468,99 @@ materials = [
     "Obtain": ["Myriage_Lake", "Rovetelle_Forest", "Wartarch_Ruins"],
     "Difficulty": ["Master / Expert / Standard", "Master / Expert / Standard", "Master / Expert / Standard"]
   },
-  // new materials added for new weapons
-  {
-    Id: "204001001",
-    Name: "Solid Fungus",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "204001002",
-    Name: "Shiny Spore",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "204003001",
-    Name: "Steel Slab",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "204003002",
-    Name: "Golem Core",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "204004001",
-    Name: "Great Feather",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "204004002",
-    Name: "Zephyr Rune",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "204005001",
-    Name: "Raging Fang",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "204005002",
-    Name: "Raging Tail",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "201010051",
-    Name: "Violet Insignia",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
-  {
-    Id: "201010052",
-    Name: "Royal Violet Insignia",
-    Description: "",
-    Obtain: [],
-    Difficulty: []
-  },
   {
     "Id": "Icon_Resource_Rupies",
     "Name": "Rupies",
     "Description": "One of the ingame currencies.",
     "Obtain": ["Avenue_To_Fortune"],
     "Difficulty": []
+  },
+  {
+    "Id":"204001001",
+    "Name":"Solid Fungus",
+    "Description": "",
+    "Obtain":["Wandering Shroom Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204001002",
+    "Name":"Shiny Spore",
+    "Description": "",
+    "Obtain": ["Wandering Shroom Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204003001",
+    "Name":"Steel Slab",
+    "Description": "",
+    "Obtain": ["Steel Golem Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204003002",
+    "Name":"Golem Core",
+    "Description": "",
+    "Obtain": ["Steel Golem Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204004001",
+    "Name":"Great Feather",
+    "Description": "",
+    "Obtain": ["Void Zephyr Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204004002",
+    "Name":"Zephyr Rune",
+    "Description": "",
+    "Obtain": ["Void Zephyr Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204005001",
+    "Name":"Raging Fang",
+    "Description": "",
+    "Obtain": ["Raging Manticore Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204005002",
+    "Name":"Raging Tail",
+    "Description": "",
+    "Obtain": ["Raging Manticore Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204006001",
+    "Name":"Old Cloth",
+    "Obtain": ["Blazing Ghost Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204006002",
+    "Name":"Floating Red Cloth",
+    "Obtain": ["Blazing Ghost Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204006003",
+    "Name":"Otherworldly Lantern",
+    "Obtain": ["Blazing Ghost Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204007001",
+    "Name":"Obsidian Slab",
+    "Obtain": ["Obsidian Golem Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204007002",
+    "Name":"Dark Core",
+    "Obtain": ["Obsidian Golem Strike"],
+    "Difficulty": []
   }
 ]
+
+
