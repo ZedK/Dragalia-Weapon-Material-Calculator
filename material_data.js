@@ -560,6 +560,18 @@ materials = [
     "Name":"Dark Core",
     "Obtain": ["Obsidian Golem Strike"],
     "Difficulty": []
+  },
+  {
+    "Id":"204008001",
+    "Name":"Blazing Horn",
+    "Obtain": ["Void Agni Strike"],
+    "Difficulty": []
+  },
+  {
+    "Id":"204008002",
+    "Name":"Blazing Ember",
+    "Obtain": ["Void Agni Strike"],
+    "Difficulty": []
   }
 ]
 
