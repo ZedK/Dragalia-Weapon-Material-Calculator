@@ -490,6 +490,16 @@ materials = [
     "Difficulty": []
   },
   {
+    "Id":"204002001",
+    "Name":"Goblin Thread",
+    "Obtain":"[Frost Hermit Strike]"
+  },
+  {
+    "Id":"204002002",
+    "Name":"Aromatic Wood",
+    "Obtain":"[Frost Hermit Strike]"
+  },
+  {
     "Id":"204003001",
     "Name":"Steel Slab",
     "Description": "",
